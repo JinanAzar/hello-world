@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+This is a sample repository created to provide its owner with some simple GitHub practice.
